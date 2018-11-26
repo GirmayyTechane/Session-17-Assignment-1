@@ -45,7 +45,6 @@ each are greater than 10, the sample size is large enough.
 Find the mean of the difference in sample proportions: E(p1 - p2) = P1 - P2 = 0.52 - 0.47 = 0.05.
 
 Find the standard deviation of the difference:
-
 σd = sqrt{ [ P1(1 - P1) / n1 ] + [ P2(1 - P2) / n2 ] }
 σd = sqrt{ [ (0.52)(0.48) / 100 ] + [ (0.47)(0.53) / 100 ] }
 σd = sqrt (0.002496 + 0.002491) = sqrt(0.004987) = 0.0706
